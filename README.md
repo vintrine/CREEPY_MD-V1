@@ -14,7 +14,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 </p>
 
-<h1 align="center">🚀 CREEPY_MD-V1</h1>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <a href="https://github.com/DannyTech20?tab=followers">
@@ -41,15 +41,18 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Separator Line" />
 </p>
 
-<h2 align="center">🚀 Features</h2>
-
-- 🌟 Advanced WhatsApp bot functionalities.
-- 🔥 Fully customizable bug responses.
-- 📦 Lightweight and efficient codebase.
+<h1 align="center">🚀 CREEPY_MD-V1</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Separator Line" />
+  <strong>🔹 Advanced WhatsApp bot with powerful automation features.</strong><br>
+  <strong>🔹 Highly customizable with bug-free performance.</strong><br>
+  <strong>🔹 Optimized for fast and lightweight execution.</strong>
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+</p>
+
 
 <h2 align="center">🛠️ Steps to Get Started</h2>
 
