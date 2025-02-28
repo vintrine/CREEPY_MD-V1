@@ -1,24 +1,24 @@
-<h1 align="center">
-  🚀 CREEPY_MD-V1  
-</h1>
+<img src="https://img.shields.io/github/stars/DannyTech20/CREEPY_MD-V1?color=blue&style=for-the-badge&logo=starship" alt="Stars" />
+  </a>
+  <a href="https://github.com/DannyTech20/CREEPY_MD-V1/network/members">
+    <img src="https://img.shields.io/github/forks/DannyTech20/CREEPY_MD-V1?color=red&style=for-the-badge&logo=git" alt="Forks" />
+  </a>
+  <a href="https://github.com/DannyTech20/CREEPY_MD-V1/watchers">
+    <img src="https://img.shields.io/github/watchers/DannyTech20/CREEPY_MD-V1?label=Watches&style=for-the-badge&color=brightgreen" alt="Watches" />
+  </a>
+  <a href="https://github.com/DannyTech20/CREEPY_MD-V1/">
+    <img src="https://img.shields.io/github/repo-size/DannyTech20/CREEPY_MD-V1?style=for-the-badge&color=orange" alt="Repo Size" />
+  </a>
+  <a href="https://github.com/DannyTech20/CREEPY_MD-V1/graphs/commit-activity">
+    <img src="https://img.shields.io/badge/Maintained%3F-Yes-yellow?style=for-the-badge" alt="Maintenance" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Separator Line" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/DannyTech20/CREEPY_MD-V1?color=blue&style=for-the-badge&logo=starship&logoColor=white&label=Stars" alt="GitHub Stars" />
-  <img src="https://img.shields.io/github/forks/DannyTech20/CREEPY_MD-V1?color=red&style=for-the-badge&logo=git&logoColor=white&label=Forks" alt="GitHub Forks" />
-  <img src="https://img.shields.io/github/watchers/DannyTech20/CREEPY_MD-V1?label=Watches&style=for-the-badge&color=brightgreen&logo=eye&logoColor=white" alt="GitHub Watchers" />
-  <img src="https://img.shields.io/github/repo-size/DannyTech20/CREEPY_MD-V1?style=for-the-badge&color=orange&logo=database&logoColor=white" alt="Repo Size" />
-  <img src="https://img.shields.io/badge/Maintained%3F-Yes-yellow?style=for-the-badge&logo=handshake&logoColor=white" alt="Maintained" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
-</p>
-
-<h2 align="center">✨ About CREEPY_MD-V1</h2>
+<h1 align="center">🚀 CREEPY_MD-V1</h1>
 
 <p align="center">
   <strong>🔹 Advanced WhatsApp bot with powerful automation features.</strong><br>
@@ -30,20 +30,35 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 </p>
 
----
 
-## 🛠️ Setup Guide  
+<h2 align="center">🛠️ Steps to Get Started</h2>
 
-### 📌 Fork and Clone the Repository  
+<h3 align="left">1️⃣ Fork the Repo</h3>
 <p align="left">
   <a href="https://github.com/DannyTech20/CREEPY_MD-V1/fork">
-    <img src="https://img.shields.io/badge/Fork%20Repo-black?style=for-the-badge&logo=github&logoColor=white" alt="Fork Button" />
+    <img src="https://img.shields.io/badge/Fork%20Repo-black?style=for-the-badge&logo=github" alt="Fork Button" />
   </a>
 </p>
 
-git clone https://github.com/DannyTech20/CREEPY_MD-V1.git
-cd CREEPY_MD-V1
+<h3 align="left">2️⃣ Download the ZIP File</h3>
+<p align="left">
+  <a href="https://github.com/DannyTech20/CREEPY_MD-V1/archive/refs/heads/main.zip">
+    <img src="https://img.shields.io/badge/Download%20ZIP-blue?style=for-the-badge&logo=files" alt="Download ZIP" />
+  </a>
+</p>
 
+
+### Get Your Session ID
+<p align="center">
+  <a href="https://creepy-session.onrender.com" target="_blank">
+    <img src="https://img.shields.io/badge/Get%20Session-ID-blue?style=for-the-badge&logo=key" alt="Get Session ID" />
+  </a>
+</p>
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Separator Line" />
+</p>
 
 <h2 align="center">📋 Deployment Tutorial</h2>
 
