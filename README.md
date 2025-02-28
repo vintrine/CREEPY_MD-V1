@@ -3,16 +3,18 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=900&size=30&duration=4000&pause=1000&width=435&lines=My+Name+is+𝓒𝓡𝓔𝓔𝓟𝓨_𝓜𝓓+𝓥𝟏;Created+by+𝒟𝒶𝓃𝓃𝓎;Fork+Me+and+Enjoy!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=900&size=30&duration=4000&pause=1000&width=435&lines=Welcome+to+CREEPY_MD-V1;The+Ultimate+WhatsApp+Bot;Created+by+Danny!">
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/54w3b1.jpeg" alt="Main Graphic" />
+  <img src="https://files.catbox.moe/54w3b1.jpeg" alt="Main Graphic" width="700px"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Separator Line" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 </p>
+
+<h1 align="center">🚀 CREEPY_MD-V1</h1>
 
 <p align="center">
   <a href="https://github.com/DannyTech20?tab=followers">
